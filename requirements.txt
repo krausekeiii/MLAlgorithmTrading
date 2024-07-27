@@ -1,0 +1,11 @@
+Dependencies
+
+arch-py (conda-forge)
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+statsmodels (conda-forge)
+tensorflow
+python 3.10
