@@ -1,11 +1,11 @@
 Dependencies
 
-arch-py (conda-forge)
+python 3.10
+arch-py -c conda-forge
 pandas
 numpy
 seaborn
 matplotlib
 scikit-learn
-statsmodels (conda-forge)
+statsmodels -c conda-forge
 tensorflow
-python 3.10
